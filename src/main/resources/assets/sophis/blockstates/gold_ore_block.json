@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sophis:block/gold_ore_block"
+    }
+  }
+}

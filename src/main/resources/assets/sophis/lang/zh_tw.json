@@ -1,0 +1,38 @@
+{
+
+  "block.sophis.copper_ore_block": "銅礦方塊",
+  "block.sophis.tin_ore_block": "錫礦方塊",
+  "block.sophis.iron_ore_block": "鐵礦方塊",
+  "block.sophis.gold_ore_block": "金礦方塊",
+  "block.sophis.silver_ore_block": "銀礦方塊",
+  "block.sophis.bismuth_ore_block": "鉍礦方塊",
+
+  "item.sophis.copper_ore": "銅礦簇",
+  "item.sophis.tin_ore": "錫礦簇",
+  "item.sophis.iron_ore": "鐵礦簇",
+  "item.sophis.gold_ore": "金礦簇",
+  "item.sophis.silver_ore": "銀礦簇",
+  "item.sophis.bismuth_ore": "鉍礦簇",
+
+  "item.sophis.copper_ingot": "銅錠",
+  "item.sophis.tin_ingot": "錫錠",
+  "item.sophis.iron_ingot": "鐵錠",
+  "item.sophis.gold_ingot": "金錠",
+  "item.sophis.silver_ingot": "銀錠",
+  "item.sophis.bismuth_ingot": "鉍錠",
+
+  "item.sophis.ethereal_flower_seeds": "空靈花種子",
+  "item.sophis.ethereal_flower": "空靈花",
+  "item.sophis.mana_ethereal_flower": "蘊魔空靈花",
+  "item.sophis.mana_ashes": "魔塵",
+  "item.sophis.mana_crystal": "魔晶",
+  "item.sophis.compressed_mana_crystal": "壓製魔晶",
+  "item.sophis.full_mana_crystal": "高純魔晶",
+
+  "item.sophis.coffee_bean": "咖啡豆",
+  "item.sophis.coffee_cherry": "咖啡果",
+
+  "itemGroup.sophis_blocks": "索菲斯方塊",
+  "itemGroup.sophis_materials": "索菲斯素材",
+  "itemGroup.sophis_food": "索菲斯食物"
+}

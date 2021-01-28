@@ -1,0 +1,28 @@
+modLoader="javafml" #mandatory
+loaderVersion="[35,)" #mandatory
+license="All rights reserved"
+issueTrackerURL="https://github.com/HemyO/SophisMod/issues" #optional
+[[mods]] #mandatory
+modId="sophis" #mandatory
+version="0.1.i" #mandatory
+displayName="Sophis" #mandatory
+#updateJSONURL="http://myurl.me/" #optional
+displayURL="https://github.com/HemyO/SophisMod.git" #optional
+logoFile="examplemod.png" #optional
+credits="Thanks for this example mod goes to Java" #optional
+authors="HemyO" #optional
+description='''
+This is a long form description of the mod. You can write whatever you want here
+'''
+[[dependencies.sophis]] #optional
+    modId="forge" #mandatory
+    mandatory=true #mandatory
+    versionRange="[35,)" #mandatory
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.sophis]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.4,1.17)"
+    ordering="NONE"
+    side="BOTH"

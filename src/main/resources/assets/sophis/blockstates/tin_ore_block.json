@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "sophis:block/tin_ore_block"
+    }
+  }
+}
