@@ -4,7 +4,7 @@ import net.minecraft.item.Rarity;
 import net.minecraft.util.text.TextFormatting;
 
 public class SophisRarity {
-    public static class Normal {
+    public static class Common {
         public static final Rarity NORMAL = Rarity.create("normal", TextFormatting.WHITE);
         public static final Rarity SCARCE = Rarity.create("scarce", TextFormatting.AQUA);
         public static final Rarity EPIC = Rarity.create("epic", TextFormatting.RED);

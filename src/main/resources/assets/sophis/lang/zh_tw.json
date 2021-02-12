@@ -1,38 +1,61 @@
 {
-
-  "block.sophis.copper_ore_block": "銅礦方塊",
-  "block.sophis.tin_ore_block": "錫礦方塊",
-  "block.sophis.iron_ore_block": "鐵礦方塊",
-  "block.sophis.gold_ore_block": "金礦方塊",
-  "block.sophis.silver_ore_block": "銀礦方塊",
-  "block.sophis.bismuth_ore_block": "鉍礦方塊",
-
-  "item.sophis.copper_ore": "銅礦簇",
-  "item.sophis.tin_ore": "錫礦簇",
-  "item.sophis.iron_ore": "鐵礦簇",
-  "item.sophis.gold_ore": "金礦簇",
-  "item.sophis.silver_ore": "銀礦簇",
-  "item.sophis.bismuth_ore": "鉍礦簇",
-
-  "item.sophis.copper_ingot": "銅錠",
-  "item.sophis.tin_ingot": "錫錠",
-  "item.sophis.iron_ingot": "鐵錠",
-  "item.sophis.gold_ingot": "金錠",
-  "item.sophis.silver_ingot": "銀錠",
-  "item.sophis.bismuth_ingot": "鉍錠",
-
-  "item.sophis.ethereal_flower_seeds": "空靈花種子",
-  "item.sophis.ethereal_flower": "空靈花",
-  "item.sophis.mana_ethereal_flower": "蘊魔空靈花",
-  "item.sophis.mana_ashes": "魔塵",
-  "item.sophis.mana_crystal": "魔晶",
-  "item.sophis.compressed_mana_crystal": "壓製魔晶",
-  "item.sophis.full_mana_crystal": "高純魔晶",
-
-  "item.sophis.coffee_bean": "咖啡豆",
-  "item.sophis.coffee_cherry": "咖啡果",
-
+  "//": "[GROUP]",
   "itemGroup.sophis_blocks": "索菲斯方塊",
   "itemGroup.sophis_materials": "索菲斯素材",
-  "itemGroup.sophis_food": "索菲斯食物"
+  "itemGroup.sophis_food": "索菲斯食物",
+
+  "//": "[ITEM]BLOCK",
+  "block.sophis.copper_ore": "銅礦",
+  "block.sophis.bismuth_ore": "鉍礦",
+  "block.sophis.unknown_metal_ore": "未知的金屬礦",
+
+  "block.sophis.copper_block": "銅方塊",
+  "block.sophis.bismuth_block": "黑鉍方塊",
+  "block.sophis.tin_block": "錫方塊",
+  "block.sophis.silver_block": "銀方塊",
+
+  "//": "[ITEM]METARIAL",
+  "item.sophis.copper_cluster": "銅礦簇",
+  "item.sophis.bismuth_cluster": "鉍礦簇",
+  "item.sophis.iron_cluster": "鐵礦簇",
+  "item.sophis.gold_cluster": "金礦簇",
+  "item.sophis.unknown_metal_cluster": "未知的金屬礦簇",
+
+  "item.sophis.copper_ingot": "銅錠",
+  "item.sophis.bismuth_ingot": "鉍錠",
+  "item.sophis.unknown_metal_ingot": "未知的金屬錠",
+  "item.sophis.silver_ingot": "銀錠",
+  "item.sophis.tin_ingot": "錫錠",
+
+  "//": "[ITEM]FOOD",
+  "item.sophis.ethereal_flower_seeds": "空靈花種子",
+  "item.sophis.ethereal_flower": "空靈花",
+
+  "//": "[Minecraft]",
+  "block.minecraft.lapis_block": "青金石方塊",
+
+  "//": "[TOOLTIP]COMMON",
+  "tooltip.sophis.common.kam": " §7克姆",
+  "tooltip.sophis.common.legal_essential": " §f要素",
+  "tooltip.sophis.common.legal_scroll": " §b卷軸 ",
+  "tooltip.sophis.common.legal_framework": " §c框架 ",
+  "tooltip.sophis.common.noprice": "§7非賣品",
+
+  "//": "[TOOLTIP]MATERIAL_CATEGORIES",
+  "tooltip.sophis.material_item.metal": "§e素材 - 金屬",
+  "tooltip.sophis.material_item.gem": "§e素材 - 寶石",
+  "tooltip.sophis.material_item.crystal": "§e素材 - 水晶",
+  "tooltip.sophis.material_item.grass": "§e素材 - 草本",
+  "tooltip.sophis.material_item.wood": "§e素材 - 木本",
+  "tooltip.sophis.material_item.leaf": "§e素材 - 樹葉",
+  "tooltip.sophis.material_item.skin": "§e素材 - 毛皮",
+  "tooltip.sophis.material_item.organ": "§e素材 - 臟器",
+  "tooltip.sophis.material_item.magic": "§e素材 - 魔法",
+  "tooltip.sophis.material_item.trait": "§e素材 - 部位",
+  "tooltip.sophis.material_item.component": "§e素材 - 零件",
+  "tooltip.sophis.material_item.braid": "§e素材 - 紡織",
+  "tooltip.sophis.material_item.oil": "§e素材 - 油品",
+  "tooltip.sophis.material_item.will": "§e素材 - 意志",
+  "tooltip.sophis.material_item.energy": "§e素材 - 能量",
+  "tooltip.sophis.material_item.parent": "§e素材"
 }
